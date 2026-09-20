@@ -75,4 +75,10 @@ Palo-Alto-Career-Analytics/
 ├── requirements.txt
 └── README.md
 
+## Author
 
+Riya Kadam
+
+## Live Dashboard
+
+[Open Palo Alto Career Analytics Dashboard](https://palo-alto-career-analytics-dbdsryrrkbpc8gdqfe9ckd.streamlit.app/)
